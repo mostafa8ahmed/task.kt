@@ -1,0 +1,5 @@
+package Taskk1
+fun main() {
+    var letter:Char='a'
+    println("The letter is [$letter]")
+}
